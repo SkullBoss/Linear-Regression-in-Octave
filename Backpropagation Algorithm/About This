@@ -1,0 +1,3 @@
+In the first half of the exercise, implemented regularized linear regression to predict the amount of water owing out of a dam using the change
+of water level in a reservoir. In the next half, through some diagnostics of debugging learning algorithms and examine the effects of bias v.s.
+variance.
